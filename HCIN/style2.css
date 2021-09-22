@@ -1,0 +1,39 @@
+*{margin:0;padding:0;font-family: Century gothic; }
+header{background-image:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url(bg3.jpg); height:100vh; 
+background-size:cover;background-position:center;}
+
+
+ul{float:right; list-style-type:none;margin-top:25px;padding:10px;}
+ul li{display: inline-block; }
+ul li a{text-decoration:none;color:#000;}
+
+#home{  padding:5px 20px; border:1px solid #fff; transition: 0.6s ease;}
+#home:hover{background-color:#fff; color:#fff;}
+
+#gallery{ background-color: #fff;color:#000; padding:5px 20px; border:1px solid #fff; transition: 0.6s ease;}
+
+
+#login{ padding:5px 20px; border:1px solid #fff; transition: 0.6s ease;}
+#login:hover{background-color:#fff; color:#fff;}
+
+
+#logo{padding:10px;}
+table{position:absolute;border-style:dotted;float:left;margin-top:25px;}
+table th{padding:2px;font-size:2em;border-color:#fff;color:#fff;}
+
+
+#back{position:absolute;background-color:white;margin-top:10%;margin-left:5%;padding:2px;height:70%;width:90%;opacity:95%;}
+
+#fpic{position:absolute; height:40%; width:auto;margin-left:5%;margin-top:3%;}
+#f{position:absolute;color:black;margin-top:20%;margin-left:1%;}
+
+#spic{position:absolute; height:40%; width:auto;margin-left:38%;margin-top:3%;}
+#s{position:absolute;color:black;margin-top:20%;margin-left:33.5%;}
+
+#tpic{position:absolute; height:40%; width:auto;margin-left:70%;margin-top:3%;}
+#t{position:absolute;color:black;margin-top:20%;margin-left:66%;}
+
+
+
+footer{position:relative;background-color:black;}
+p{position:relative;color:#fff;text-align:center;font-size:.8em;}
